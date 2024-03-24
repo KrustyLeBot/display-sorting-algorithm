@@ -11,5 +11,12 @@
             "program": "python/main.py",
             "console": "integratedTerminal"
         },
+        {
+            "name": "main_go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "golang/main.go"
+        },
     ]
 }
